@@ -9,4 +9,4 @@ A tool to convert Resource Packs made for Minecraft 1.8 and later to Minecraft 1
 
 ## License
 
-This work is licensed under MPL.
+This work is licensed under [Mozilla Public License 2.0](LICENSE).
