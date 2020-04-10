@@ -22,4 +22,11 @@ public class FeatureID {
 	public int hashCode() {
 		return Objects.hash(image);
 	}
+	
+	@Override
+	public String toString() {
+		return "FeatureID{" +
+						"image='" + image + '\'' +
+						'}';
+	}
 }
